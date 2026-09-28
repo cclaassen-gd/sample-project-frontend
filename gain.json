@@ -1,0 +1,25 @@
+{
+  "project": "sample-project-frontend",
+  "mode": "greenfield",
+  "composite": false,
+  "rosetta": {
+    "release": "R3",
+    "plugin": "core-cursor-standalone",
+    "version": "3.1.13",
+    "root": ".cursor"
+  },
+  "paths": {
+    "context": "docs/CONTEXT.md",
+    "architecture": "docs/ARCHITECTURE.md",
+    "techstack": "docs/TECHSTACK.md",
+    "codemap": "docs/CODEMAP.md",
+    "dependencies": "docs/DEPENDENCIES.md",
+    "assumptions": "docs/ASSUMPTIONS.md",
+    "implementation": "agents/IMPLEMENTATION.md",
+    "memory": "agents/MEMORY.md",
+    "patterns": "docs/PATTERNS",
+    "requirements": "docs/REQUIREMENTS",
+    "plans": "plans",
+    "refsrc": "refsrc"
+  }
+}
